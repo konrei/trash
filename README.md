@@ -1,2 +1,3 @@
-# :c
-I even feel bad for creating a repository for this disgusting language.
+This project is licensed under MIT License bla bla bla.
+
+I hate C.

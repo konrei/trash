@@ -8,8 +8,10 @@ int main(void)
 
     do
     {
-        printf("enter a number plzz ('q' to exit): "); op == getchar();
-        scanf("%lf", myArray[i]); printf("%lf", myArray[i]);
+        printf("enter a number plzz ('q' to exit): ");
+        op == getchar();
+        scanf("%lf", myArray[i]);
+        printf("%lf", myArray[i]);
 //        if (myArray[i]=='q')
 //        {
 //            op == 'q';
