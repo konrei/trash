@@ -28,3 +28,17 @@
 	<stdio.h>
 	<stdlib.h>
 
+1542266576 source:c:\users\yakup\desktop\c\c\scores.c
+	<stdio.h>
+	<stdlib.h>
+
+1542354925 source:c:\users\yakup\desktop\c\c\string.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542616874 source:c:\users\yakup\desktop\c\c\ascii.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
