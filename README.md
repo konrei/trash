@@ -1,3 +1,1 @@
-This project is licensed under MIT License bla bla bla.
-
-I hate C.
+wish me good luck with pointers
